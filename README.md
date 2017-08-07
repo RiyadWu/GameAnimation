@@ -8,4 +8,4 @@ Game Animation demo
 3. press `W` to move left and `D` to right
 
 ## Demo
-![animation.gif](https://github.com/RiyadWu/GameAnimation/blob/master/img/animation.gif)
+![animation.gif](./img/animation.gif)
